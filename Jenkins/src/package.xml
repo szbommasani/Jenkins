@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>JenkinsPkg</fullName>
+    <types>
+        <members>Jenkins</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Jenkins__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Jenkins__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Jenkins__c-Jenkins Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Jenkins__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>31.0</version>
+</Package>
